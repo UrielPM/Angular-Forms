@@ -20,6 +20,12 @@ Este es un breve listado de los temas fundamentales que se usaron:
 13. - FormBuilder
 14. - FormGroup
 15. - FormArray
+16. - Validaciones manuales
+17. - Validaciones asíncronas
+18. - Validar contra expresiones regulares
+19. - Separar la lógica de validaciones
+20. - Estado del formulario
+21. - Mensajes de error personalizados
 
 
 
