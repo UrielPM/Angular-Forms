@@ -13,3 +13,19 @@ Este es un breve listado de los temas fundamentales que se usaron:
 6. - Directivas personalizadas - Nota: este tema se cubre a profundidad después en una sección especializada
 7. - Manejo del formulario y validaciones
 8. - Encapsular módulos y scope de los mismos
+9. - Formularios Reactivos
+10. - Lazyload 
+11. - Validaciones propias de Angular
+12. - Arreglos y objetos anidados
+13. - FormBuilder
+14. - FormGroup
+15. - FormArray
+
+
+
+
+
+
+
+
+
